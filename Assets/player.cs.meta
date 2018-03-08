@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a86ea16aa87acc5438e0d9c185ac17eb
+timeCreated: 1512696887
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - humvee: {fileID: 100004, guid: b8a0fb04068a7a147a8842656561eb27, type: 3}
+  - mtvvr: {fileID: 100018, guid: cccd31637db7758489bbe389f388c853, type: 3}
+  - tank: {fileID: 100000, guid: 78f1d3bdd497078478231a8f76313a91, type: 3}
+  - tiger: {fileID: 100044, guid: 4fbb09138514d28439fd207b016d20ba, type: 3}
+  - dadu: {fileID: 100004, guid: 85ad64d549487bc4faeab5fba67f3fac, type: 3}
+  - dadu2: {fileID: 100000, guid: c8250081aa35e7d48872ef3e6c191373, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

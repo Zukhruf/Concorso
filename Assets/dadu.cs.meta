@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8680ec1b38d87634693b08cf95f0034f
+timeCreated: 1512703684
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ObjekDadu: {fileID: 100000, guid: c8250081aa35e7d48872ef3e6c191373, type: 3}
+  - ObjekDadu2: {fileID: 100004, guid: 85ad64d549487bc4faeab5fba67f3fac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
